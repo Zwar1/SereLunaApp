@@ -1,1 +1,3 @@
 # SereLunaApp
+
+"SereLuna" represents a concept that combines serenity (from "Sere", possibly an abbreviation of "serenity") with the presence of the moon ("Luna"). The philosophy behind "SereLuna" is to create a space for tranquility and reflection, inspired by the gentle and soothing energy associated with the moon. It creates an imagery of a virtual space where users can find inner peace, clear their minds, and strengthen their mental well-being. With this concept, "SereLuna" offers a place to deeply connect with oneself and the surrounding world, aiding users in finding peace amidst the chaos of everyday life.

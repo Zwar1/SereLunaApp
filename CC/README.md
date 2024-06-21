@@ -4,7 +4,7 @@
 
 First, clone the repository:
 ```sh
-git clone https://github.com/Backend-Sereluna/tree/main/cc
+git clone https://github.com/Backend-Sereluna/tree/main/CC/Backend-Sereluna
 ```
 
 Install all the dependencies:
